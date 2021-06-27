@@ -6,6 +6,9 @@ Installation guide, after you download the client and server python file, you ru
 
 
 Contributor list, 
+
 -Andreas did the coding
+
 -Mikhael did the testing for the server and client
+
 -Nicholas 
