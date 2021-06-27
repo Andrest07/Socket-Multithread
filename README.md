@@ -8,6 +8,7 @@ Installation guide, after you download the client and server python file, you ru
 ![image](https://user-images.githubusercontent.com/57937951/123534163-4d07bc80-d745-11eb-97a1-18c328478b8d.png)
 
 
+After running the server and client code, the client code reverses the output of the server code which is seen above.
 
 Contributor list, 
 
