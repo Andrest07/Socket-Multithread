@@ -1,8 +1,10 @@
 # Socket program with multi threading
+# Brief Description
 The socket program we have helps us to connect a client to a server. Client.py file is message sender and receiver and server.py file is just a listener that works on data sent by client.
 
 
-Installation guide, after you download the client and server python file, you run the server file then the client file.
+# Installation guide
+after you download the client and server python file, you run the server file then the client file.
 
 You need to run both the client and server file in a separate console, or it will not output anything and result in an error.
 
@@ -13,7 +15,7 @@ You need to run both the client and server file in a separate console, or it wil
 
 After running the server and client code, the client code reverses the output of the server code which is seen above.
 
-Contributor list, 
+# Contributor list
 
 -Andreas did the coding
 
