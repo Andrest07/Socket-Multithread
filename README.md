@@ -19,4 +19,4 @@ Contributor list,
 
 -Mikhael did the testing for the server and client, and gave feedbacks to andreas for him to change
 
--Nicholas 
+-Nicholas did research for multithreading on Python and testing
