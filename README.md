@@ -17,6 +17,6 @@ Contributor list,
 
 -Andreas did the coding
 
--Mikhael did the testing for the server and client
+-Mikhael did the testing for the server and client, and gave feedbacks to andreas for him to change
 
 -Nicholas 
